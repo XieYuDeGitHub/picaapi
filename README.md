@@ -1,5 +1,7 @@
 # picaapi
 就是那个粉色APP
+这个文档是由ApiFox生成的，
+也可以通过这个链接查看网页版: https://www.apifox.cn/apidoc/shared-44da213e-98f7-4587-a75e-db998ed067ad
 
 # 哔咔
 
