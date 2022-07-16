@@ -1,2 +1,2 @@
 # picaapi
-就是哪个粉色APP
+就是那个粉色APP
